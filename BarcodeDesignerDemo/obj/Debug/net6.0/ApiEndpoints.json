@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "CreateTemplate",
+    "RelativePath": "api/LabelTemplates/create-template",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BarcodeDesignerDemo.Data.Dtos.LabelTemplateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "CreateTemplatePdfNew",
+    "RelativePath": "api/LabelTemplates/create-template-pdf-new",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TemplateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "GenerateCsvPdf",
+    "RelativePath": "api/LabelTemplates/generate-csv-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "csv",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "templateId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "CreateTemplatePdf",
+    "RelativePath": "api/LabelTemplates/generate-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TemplateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "SaveTemplate",
+    "RelativePath": "api/LabelTemplates/genrate-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BarcodeDesignerDemo.Data.Dtos.LabelTemplateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarcodeDesignerDemo.Controllers.LabelTemplatesController",
+    "Method": "GetTemplate",
+    "RelativePath": "api/LabelTemplates/get-templates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemplateController",
+    "Method": "CreateTemplatePdf",
+    "RelativePath": "Template/create-template-pdf2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TemplateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

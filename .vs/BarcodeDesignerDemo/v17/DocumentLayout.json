@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hackathon\\BarcodeDesignerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\handler\\generatecsvpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\handler\\generatecsvpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\handler\\generatetagnewpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\handler\\generatetagnewpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\controllers\\labeltemplatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\controllers\\labeltemplatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\command\\generatecsvdatatagpdfhandlercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\command\\generatecsvdatatagpdfhandlercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\command\\generatetagnewpdfhandlercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\command\\generatetagnewpdfhandlercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\command\\generatepricetagpdfcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\command\\generatepricetagpdfcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\handler\\generatepricetagpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\handler\\generatepricetagpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\controllers\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\controllers\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\appsettings.json",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\appsettings.json",
+              "RelativeToolTip": "BarcodeDesignerDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T06:03:20.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateCSVPDFHandler.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:24:58.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateCSVDataTagPdfHandlerCommand.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:23:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateTagNewPdfHandler.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAHEBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:12:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Program.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Program.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:19:05.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerateTagNewPdfHandlerCommand.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:16:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneratePriceTagPdfHandler.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:10:21.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneratePriceTagPdfCommand.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:10:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TemplateController.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAiwPIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:08:51.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelTemplatesController.cs",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:07:13.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

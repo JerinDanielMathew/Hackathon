@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeDesignerDemo", "BarcodeDesignerDemo\BarcodeDesignerDemo.csproj", "{72C88979-90DD-FEB5-D67D-6DD58E434055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeDesignerDemo.Data", "BarcodeDesignerDemo.Data\BarcodeDesignerDemo.Data.csproj", "{3C56D72D-C344-C96D-5B2C-693284E6169C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C88979-90DD-FEB5-D67D-6DD58E434055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C88979-90DD-FEB5-D67D-6DD58E434055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C88979-90DD-FEB5-D67D-6DD58E434055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C88979-90DD-FEB5-D67D-6DD58E434055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C56D72D-C344-C96D-5B2C-693284E6169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C56D72D-C344-C96D-5B2C-693284E6169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C56D72D-C344-C96D-5B2C-693284E6169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C56D72D-C344-C96D-5B2C-693284E6169C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D2D258-68C5-4C69-83EB-55170068E94F}
+	EndGlobalSection
+EndGlobal
