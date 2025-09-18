@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("35c012c3-dc23-4ce2-bbd1-4007e3c7f177")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarcodeDesignerDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba9d28c541d4b06dd315ec6442aa21c2b56b7f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarcodeDesignerDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarcodeDesignerDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

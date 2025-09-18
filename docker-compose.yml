@@ -1,0 +1,6 @@
+services:
+  barcodedesignerdemo:
+    image: ${DOCKER_REGISTRY-}barcodedesignerdemo
+    build:
+      context: .
+      dockerfile: BarcodeDesignerDemo/Dockerfile

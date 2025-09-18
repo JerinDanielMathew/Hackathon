@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Hackathon\\BarcodeDesignerDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\hackathon\\barcodedesignerdemo\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\hackathon\\barcodedesignerdemo\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|c:\\hackathon\\barcodedesignerdemo\\barcodedesignerdemo\\requests\\handler\\generatecsvpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C88979-90DD-FEB5-D67D-6DD58E434055}|BarcodeDesignerDemo\\BarcodeDesignerDemo.csproj|solutionrelative:barcodedesignerdemo\\requests\\handler\\generatecsvpdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +74,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Dockerfile",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Dockerfile",
+              "RelativeToolTip": "BarcodeDesignerDemo\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-18T10:42:44.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-18T10:41:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-18T10:41:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\appsettings.json",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\appsettings.json",
@@ -70,25 +121,24 @@
               "RelativeToolTip": "BarcodeDesignerDemo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-18T06:03:20.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T06:03:20.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GenerateCSVPDFHandler.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
               "ToolTip": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
               "RelativeToolTip": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateCSVPDFHandler.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAmwFcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwLoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T18:24:58.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GenerateCSVDataTagPdfHandlerCommand.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GenerateCSVDataTagPdfHandlerCommand.cs",
@@ -100,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GenerateTagNewPdfHandler.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GenerateTagNewPdfHandler.cs",
@@ -112,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Program.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Program.cs",
@@ -124,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GenerateTagNewPdfHandlerCommand.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GenerateTagNewPdfHandlerCommand.cs",
@@ -136,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GeneratePriceTagPdfHandler.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Handler\\GeneratePriceTagPdfHandler.cs",
@@ -148,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GeneratePriceTagPdfCommand.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Requests\\Command\\GeneratePriceTagPdfCommand.cs",
@@ -160,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "TemplateController.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Controllers\\TemplateController.cs",
@@ -172,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LabelTemplatesController.cs",
               "DocumentMoniker": "C:\\Hackathon\\BarcodeDesignerDemo\\BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
               "RelativeDocumentMoniker": "BarcodeDesignerDemo\\Controllers\\LabelTemplatesController.cs",
