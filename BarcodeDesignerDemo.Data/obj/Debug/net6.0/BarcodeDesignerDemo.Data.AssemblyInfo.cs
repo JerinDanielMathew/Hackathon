@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarcodeDesignerDemo.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba9d28c541d4b06dd315ec6442aa21c2b56b7f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10ce07dff071b5fd76a2044edbf6555bcbdfa084")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarcodeDesignerDemo.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarcodeDesignerDemo.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

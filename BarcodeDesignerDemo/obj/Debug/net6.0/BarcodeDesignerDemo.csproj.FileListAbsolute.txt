@@ -324,3 +324,4 @@ C:\Hackathon\BarcodeDesignerDemo\BarcodeDesignerDemo\obj\Debug\net6.0\refint\Bar
 C:\Hackathon\BarcodeDesignerDemo\BarcodeDesignerDemo\obj\Debug\net6.0\BarcodeDesignerDemo.pdb
 C:\Hackathon\BarcodeDesignerDemo\BarcodeDesignerDemo\obj\Debug\net6.0\BarcodeDesignerDemo.genruntimeconfig.cache
 C:\Hackathon\BarcodeDesignerDemo\BarcodeDesignerDemo\obj\Debug\net6.0\ref\BarcodeDesignerDemo.dll
+C:\Hackathon\BarcodeDesignerDemo\BarcodeDesignerDemo\obj\Debug\net6.0\BarcodeDesignerDemo.sourcelink.json

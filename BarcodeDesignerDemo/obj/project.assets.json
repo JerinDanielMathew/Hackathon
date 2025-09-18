@@ -4493,42 +4493,6 @@
   },
   "logs": [
     {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget-all/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget_v/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget_v/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget-all/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets' from remote source 'https://artifactory.soti.net/artifactory/api/nuget/nuget/FindPackagesById()?id='Microsoft.VisualStudio.Azure.Containers.Tools.Targets'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'artifactory.soti.net'",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
-    },
-    {
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
